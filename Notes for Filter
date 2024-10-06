@@ -87,3 +87,5 @@ Insights Section: The breakdown of insights into Articles, Video, Audio, and Boo
 Dynamic vs. Manual Filters: If you're leveraging a database like Supabase to manage these records, making the filters dynamic (i.e., pulling options directly from the database) will save you time in the long run and offer better scalability. This would allow the system to update automatically as new records are added.
 
 User Experience with Mobile and Desktop: The mobile and desktop versions appear to be well-aligned in your wireframe, which is key for a good UX. However, it might be worth considering how the filter interface looks on smaller mobile screens. You could experiment with a collapsible filter menu to save screen space while keeping all the filter options accessible.
+
+--------------
